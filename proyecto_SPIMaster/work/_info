@@ -1,0 +1,80 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/20.1
+vmaster
+Z0 !s110 1773173235
+!i10b 1
+!s100 fQBL=]lb@BTel[hMlI6Gb0
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IhZ:AhnhcE]glSj18l8l4f2
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dC:/Users/emili/OneDrive/Escritorio/programacion/arqui/proyecto_SPIMaster
+Z4 w1773173223
+Z5 8C:\Users\emili\OneDrive\Escritorio\programacion\arqui\proyecto_SPIMaster\SPI_Master.v
+Z6 FC:\Users\emili\OneDrive\Escritorio\programacion\arqui\proyecto_SPIMaster\SPI_Master.v
+!i122 2
+L0 3 26
+Z7 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z8 !s108 1773173235.000000
+!s107 C:\Users\emili\OneDrive\Escritorio\programacion\arqui\proyecto_SPIMaster\SPI_Master.v|
+Z9 !s90 -reportprogress|300|-work|work|-stats=none|C:\Users\emili\OneDrive\Escritorio\programacion\arqui\proyecto_SPIMaster\SPI_Master.v|
+!i113 1
+Z10 o-work work
+Z11 tCvgOpt 0
+vslave
+R0
+!i10b 1
+!s100 LjH8h8<KIAWJfKV?eIPRj2
+R1
+IzSYN74FEzKh_0UEXQnL^[1
+R2
+R3
+R4
+R5
+R6
+!i122 2
+L0 31 14
+R7
+r1
+!s85 0
+31
+R8
+Z12 !s107 C:\Users\emili\OneDrive\Escritorio\programacion\arqui\proyecto_SPIMaster\SPI_Master.v|
+R9
+!i113 1
+R10
+R11
+vspi_top
+R0
+!i10b 1
+!s100 BL5a?@l2YYFN;SDD3OYUd2
+R1
+IA54o2Wg_SN5TddDEY[R4j2
+R2
+R3
+R4
+R5
+R6
+!i122 2
+L0 47 42
+R7
+r1
+!s85 0
+31
+R8
+R12
+R9
+!i113 1
+R10
+R11
